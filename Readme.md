@@ -11,7 +11,9 @@ This Java project implements a neural network from scratch to recognize handwrit
 
 ### Training Algorithm
 
-The neural network is trained using the Stochastic Gradient Descent (SGD) Backpropagation algorithm. It uses the Rectified Linear activation function for the hidden layer and the softmax activation function for the output layer.
+The neural network is trained using the Stochastic Gradient Descent (SGD) Backpropagation algorithm.
+
+![Training Output](/images/swappy-20240531_104243.png)
 
 ### Future Enhancements
 
@@ -28,6 +30,8 @@ The neural network is trained using the Stochastic Gradient Descent (SGD) Backpr
 - **Test Class:**
     - Evaluates the neural network on the MNIST test dataset.
     - Calculates and reports the accuracy of the neural network.
+
+![Testing Output](/images/swappy-20240531_104942.png)
 
 ## Technical Details
 
