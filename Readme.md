@@ -37,13 +37,4 @@ The neural network is trained using the Stochastic Gradient Descent (SGD) Backpr
 
 - **Programming Language:** Java 22
 - **Build Tool:** Maven
-
-## Getting Started
-
-### Prerequisites
-
-Ensure you have the following installed:
-
-- Java 22
-- Maven
-- OS - Arch Linux x86_64
+- **OS:** Arch Linux x86_64
